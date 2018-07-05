@@ -1,24 +1,6 @@
-# README
+# Reat on Rails App with CRUD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Building a CRUD interface with React and Ruby on Rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+From this tutorial
+https://www.pluralsight.com/guides/building-a-crud-interface-with-react-and-ruby-on-rails
