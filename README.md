@@ -1,4 +1,4 @@
-# Reat on Rails App with CRUD
+# React on Rails App with CRUD
 
 ## Building a CRUD interface with React and Ruby on Rails
 
